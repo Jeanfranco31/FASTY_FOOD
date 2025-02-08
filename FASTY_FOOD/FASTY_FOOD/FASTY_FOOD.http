@@ -1,0 +1,6 @@
+@FASTY_FOOD_HostAddress = http://localhost:5022
+
+GET {{FASTY_FOOD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
