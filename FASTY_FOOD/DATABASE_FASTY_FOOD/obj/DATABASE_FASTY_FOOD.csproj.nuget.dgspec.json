@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj": {}
+    "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj": {
+    "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj",
+        "projectUniqueName": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj",
         "projectName": "DATABASE_FASTY_FOOD",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj",
+        "projectPath": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\DATABASE_FASTY_FOOD.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\obj\\",
+        "outputPath": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DATABASE_FASTY_FOOD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
