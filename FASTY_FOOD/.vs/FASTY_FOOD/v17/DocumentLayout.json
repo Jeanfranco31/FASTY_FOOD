@@ -1,16 +1,99 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\FASTY_FOOD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\bl_fasty_food\\login\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|solutionrelative:bl_fasty_food\\login\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732DA549-CBCC-46CB-97A2-74E305612337}|FASTY_FOOD\\FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\fasty_food\\controllers\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732DA549-CBCC-46CB-97A2-74E305612337}|FASTY_FOOD\\FASTY_FOOD.csproj|solutionrelative:fasty_food\\controllers\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA4CCA-CF57-4DE3-BB15-6D4397A65125}|DAC_FASTY_FOOD\\DAC_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\dac_fasty_food\\login\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA4CCA-CF57-4DE3-BB15-6D4397A65125}|DAC_FASTY_FOOD\\DAC_FASTY_FOOD.csproj|solutionrelative:dac_fasty_food\\login\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA4CCA-CF57-4DE3-BB15-6D4397A65125}|DAC_FASTY_FOOD\\DAC_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\dac_fasty_food\\login\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA4CCA-CF57-4DE3-BB15-6D4397A65125}|DAC_FASTY_FOOD\\DAC_FASTY_FOOD.csproj|solutionrelative:dac_fasty_food\\login\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\bl_fasty_food\\login\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|solutionrelative:bl_fasty_food\\login\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\bl_fasty_food\\common\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|solutionrelative:bl_fasty_food\\common\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\bl_fasty_food\\common\\procedurename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|solutionrelative:bl_fasty_food\\common\\procedurename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\bl_fasty_food\\common\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|solutionrelative:bl_fasty_food\\common\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\bl_fasty_food\\common\\tablename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|solutionrelative:bl_fasty_food\\common\\tablename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|j:\\apps\\projects\\fasty_food\\fasty_food\\bl_fasty_food\\common\\tablecolumnname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDB19AD-3891-42B2-83AB-A963E942BA60}|BL_FASTY_FOOD\\BL_FASTY_FOOD.csproj|solutionrelative:bl_fasty_food\\common\\tablecolumnname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 214,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Login\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "BL_FASTY_FOOD\\Login\\ILoginRepository.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Login\\ILoginRepository.cs",
+              "RelativeToolTip": "BL_FASTY_FOOD\\Login\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:51:20.353Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Login\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "BL_FASTY_FOOD\\Login\\LoginRepository.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Login\\LoginRepository.cs",
+              "RelativeToolTip": "BL_FASTY_FOOD\\Login\\LoginRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwCcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:51:05.098Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DAC_FASTY_FOOD\\Login\\LoginService.cs",
+              "RelativeDocumentMoniker": "DAC_FASTY_FOOD\\Login\\LoginService.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DAC_FASTY_FOOD\\Login\\LoginService.cs",
+              "RelativeToolTip": "DAC_FASTY_FOOD\\Login\\LoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:55:47.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -26,6 +109,108 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DAC_FASTY_FOOD\\Login\\ILoginService.cs",
+              "RelativeDocumentMoniker": "DAC_FASTY_FOOD\\Login\\ILoginService.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\DAC_FASTY_FOOD\\Login\\ILoginService.cs",
+              "RelativeToolTip": "DAC_FASTY_FOOD\\Login\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:56:33.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\FASTY_FOOD\\Controllers\\Login\\LoginController.cs",
+              "RelativeDocumentMoniker": "FASTY_FOOD\\Controllers\\Login\\LoginController.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\FASTY_FOOD\\Controllers\\Login\\LoginController.cs",
+              "RelativeToolTip": "FASTY_FOOD\\Controllers\\Login\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:41:11.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcedureName.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\ProcedureName.cs",
+              "RelativeDocumentMoniker": "BL_FASTY_FOOD\\Common\\ProcedureName.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\ProcedureName.cs",
+              "RelativeToolTip": "BL_FASTY_FOOD\\Common\\ProcedureName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:39:46.482Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\Parameter.cs",
+              "RelativeDocumentMoniker": "BL_FASTY_FOOD\\Common\\Parameter.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\Parameter.cs",
+              "RelativeToolTip": "BL_FASTY_FOOD\\Common\\Parameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:39:25.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableColumnName.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\TableColumnName.cs",
+              "RelativeDocumentMoniker": "BL_FASTY_FOOD\\Common\\TableColumnName.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\TableColumnName.cs",
+              "RelativeToolTip": "BL_FASTY_FOOD\\Common\\TableColumnName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:39:53.089Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableName.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\TableName.cs",
+              "RelativeDocumentMoniker": "BL_FASTY_FOOD\\Common\\TableName.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\TableName.cs",
+              "RelativeToolTip": "BL_FASTY_FOOD\\Common\\TableName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:39:55.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "BL_FASTY_FOOD\\Common\\MessageResponse.cs",
+              "ToolTip": "J:\\APPS\\PROJECTS\\FASTY_FOOD\\FASTY_FOOD\\BL_FASTY_FOOD\\Common\\MessageResponse.cs",
+              "RelativeToolTip": "BL_FASTY_FOOD\\Common\\MessageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:31:01.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             }
           ]
         }

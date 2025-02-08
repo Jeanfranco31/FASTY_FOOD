@@ -8,5 +8,6 @@ namespace BL_FASTY_FOOD.Common
 {
     public class ProcedureName
     {
+        public const string SP_ValidateLogin = "ValidateLogin";
     }
 }
