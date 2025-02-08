@@ -8,5 +8,6 @@ namespace BL_FASTY_FOOD.Common
 {
     public class Parameter
     {
+        public const string paramUsername = "@username";
     }
 }

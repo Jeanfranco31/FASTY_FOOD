@@ -19,6 +19,7 @@ Create table Users(
 	id INT IDENTITY(1,1) PRIMARY KEY,
 	id_number VARCHAR(10) UNIQUE NOT NULL,
 	full_name VARCHAR(150) NOT NULL,
+	pass VARCHAR(200) NOT NULL,
 	username VARCHAR(20) NOT NULL,
 	date_Register DATETIME NOT NULL,
 	status_User BIT,

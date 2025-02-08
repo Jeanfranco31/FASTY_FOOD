@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BE_FASTY_FOOD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0dfa15512043dd6bcbb89c61c1fa8c341720af3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc802f609bbdae1389577e8808dc473b84cf3b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BE_FASTY_FOOD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BE_FASTY_FOOD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

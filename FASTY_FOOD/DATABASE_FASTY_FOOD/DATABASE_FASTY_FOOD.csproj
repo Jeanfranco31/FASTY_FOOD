@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Storage_Procedures\" />
+    <Compile Remove="Storage_Procedures\**" />
+    <EmbeddedResource Remove="Storage_Procedures\**" />
+    <None Remove="Storage_Procedures\**" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DATABASE_FASTY_FOOD/1.0.0": {
+        "runtime": {
+          "DATABASE_FASTY_FOOD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DATABASE_FASTY_FOOD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
