@@ -9,5 +9,13 @@ namespace BL_FASTY_FOOD.Common
     public class Parameter
     {
         public const string paramUsername = "@username";
+
+
+        #region Parameters Table Rol
+        
+        public const string paramRolName = "@rolName";
+        public const string paramDateRegister = "@dateRegister";
+        public const string paramStatusRol = "@statusRol";
+        #endregion
     }
 }

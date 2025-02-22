@@ -1,4 +1,7 @@
-var builder = WebApplication.CreateBuilder(args);
+using BL_FASTY_FOOD.Rol;
+using DAC_FASTY_FOOD.Rol;
+
+WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
@@ -7,7 +10,13 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var app = builder.Build();
+builder.Services.AddScoped<IRolService, RolService>();
+builder.Services.AddScoped<IRolRepository, RolRepository>();
+
+builder.Services.AddScoped<RolRepository>();
+builder.Services.AddScoped<RolService>();
+
+WebApplication app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
