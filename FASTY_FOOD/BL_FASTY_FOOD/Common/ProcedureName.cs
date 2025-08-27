@@ -13,5 +13,10 @@ namespace BL_FASTY_FOOD.Common
         public const string SP_InsertNewRol = "InsertNewRol";
         public const string SP_GetRols = "GetRols";
         public const string SP_GetRolsByStatus = "GetRolsByStatus";
+        public const string SP_CreateNewUser = "CreateNewUser";
+        public const string SP_FoundUserByCompanyName = "FoundUserByCompanyName";
+        public const string SP_FoundByIdentification = "FoundByIdentification";
+        public const string SP_GetAllUsers = "GetAllUsers";
+        public const string SP_UpdateUser = "UpdateUser";
     }
 }

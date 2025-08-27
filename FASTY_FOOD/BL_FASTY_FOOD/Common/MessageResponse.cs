@@ -16,7 +16,9 @@ namespace BL_FASTY_FOOD.Common
         public const string CorrectAuthentication = "Credenciales correctas";
         public const string RolCorrectInsert = "Rol registrado correctamente";
         public const string RolExist = "El rol que intentas ingresar ya existe.";
-
-
+        public const string UserCreate = "Usuario registrado exitosamente";
+        public const string ErrorCreateUser = "No se pudo registrar al usuario";
+        public const string NameCompanyNotExist = "La compañia no existe";
+        public const string IdentificationNotFound = "La cedula ingresada no existe";
     }
 }
