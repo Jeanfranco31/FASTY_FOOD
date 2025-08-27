@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,5 +10,13 @@ namespace BL_FASTY_FOOD.Common
     public class DbUtilities
     {
         public const string connectionName = "FASTY_FOOD_BD";
+
+        private static readonly IConfiguration? _configuration;
+
+        public static string GetDatabaseConnection()
+        {
+            return _configuration.GetConnectionString(connectionName)!;
+        }
+
     }
 }

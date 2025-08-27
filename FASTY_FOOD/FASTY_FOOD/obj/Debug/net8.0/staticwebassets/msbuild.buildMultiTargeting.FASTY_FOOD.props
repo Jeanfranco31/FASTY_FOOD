@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\FASTY_FOOD.props" />
-</Project>
