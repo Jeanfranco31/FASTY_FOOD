@@ -1,5 +1,7 @@
 using BL_FASTY_FOOD.Rol;
+using BL_FASTY_FOOD.User;
 using DAC_FASTY_FOOD.Rol;
+using DAC_FASTY_FOOD.User;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
@@ -11,10 +13,15 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IRolService, RolService>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 builder.Services.AddScoped<IRolRepository, RolRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.AddScoped<RolRepository>();
 builder.Services.AddScoped<RolService>();
+builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<UserService>();
 
 WebApplication app = builder.Build();
 
